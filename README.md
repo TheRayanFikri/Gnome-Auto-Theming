@@ -35,7 +35,10 @@ Which Are:
 On the Gnome auto theming Launcher you can install themes From WhiteSur to Yaru Color or even Orchis.
 Just By clicking on the Icon or Theme Button it will either install the theme or the Icon Pack.
 
-<center><h1>Enjoy !</h1></center>
+# How to Update :
+You can Update The launcher Juste By relaunching the **install.py**
+and resinstall **The Launcher** when it asks you If you want.
+# Enjoy !
 
 
 
