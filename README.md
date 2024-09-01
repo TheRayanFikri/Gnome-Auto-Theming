@@ -4,9 +4,11 @@
 
 It not only makes it easier for you to install Themes but also Icon Packs and It installs the requirement to the installation (Gnome-Tweaks , .icons and .themes Folder If they don't exist)
 
-#Installation:
+###Installation:
 1.install the file from the github in the terminal using:
-[**git clone https://github.com/TheRayanFikri/Gnome-Auto-Theming**]
+<sub>**git clone https://github.com/TheRayanFikri/Gnome-Auto-Theming**</sub>
+
+
 2.Change directories:
 [cd Gnome-Auto-Theming]
 3.Launch The Installation:
