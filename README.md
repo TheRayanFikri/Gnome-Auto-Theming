@@ -31,6 +31,12 @@ Which Are:
 1. **GnomeTweaks**
 2. **Tkinter**
 
+# How to install themes:
+On the Gnome auto theming Launcher you can install themes From WhiteSur to Yaru Color or even Orchis.
+Just By clicking on the Icon or Theme Button it will either install the theme or the Icon Pack.
+
+<center><h1>Enjoy !</h1></center>
+
 
 
 
