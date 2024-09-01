@@ -7,19 +7,21 @@ It not only makes it easier for you to install Themes but also Icon Packs and It
 # Installation:
 ### 1.install the file from the github in the terminal using :
 ```
-git clone https://github.com/TheRayanFikri/Gnome-Auto-Theming
+$ git clone https://github.com/TheRayanFikri/Gnome-Auto-Theming
 ```
-### 2.Change directories:
+### 2. Change directories:
 ```
 $ cd Gnome-Auto-Themin
 ```
-### 3.Launch The Installation:
+### 3. Launch The Installation:
 ```
 $ python3 install.py
 ```
-### 4.Change directories to the launcher's directory:
+### 4. Change directories to the launcher's directory:
+```
 cd Launcher
-### 5.To launch the **Launcher** By Running :
+```
+### 5. To launch the **Launcher** By Running :
 ```
 $ python3 launcher.py
 ```
