@@ -26,8 +26,8 @@ cd Launcher
 python3 launcher.py
 ```
 # Requirements:
-Don't worry, all of the requirements are automaticly installed with the install.py folder:
-Which Are:
+Don't worry, **all of the requirements are automaticly installed with the install.py** (recomended).
+#### Requirements:
 1. **GnomeTweaks**
 2. **Tkinter**
 
